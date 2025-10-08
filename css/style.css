@@ -321,6 +321,7 @@ h1 {
 }
 
 .item-projects {
+    display: block;
   border: 1px solid #fff;
   max-width: 21.875rem;
 }
